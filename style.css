@@ -1,0 +1,35 @@
+.dive{
+      background: linear-gradient(rgb(245, 239, 239),rgba(245, 245, 245, 0.064));
+}
+
+.div-1{
+      background: linear-gradient(to right, #d2c6c699, #f0c3a600);
+}
+.div-2{
+      background-color: #F4F4F4;
+}
+.div-3{
+      background-color: #F4F4F4;
+}
+.div-4{
+      background: linear-gradient(to right, #d9d9d97e , #ffffff4f );
+}
+
+.midel-banner{
+
+      background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+      
+}
+.image-style{
+      margin-left: -65px;
+      margin-top: -69px;
+  }
+
+.main-footer{
+  background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+
+}
+.fbuttonss{
+      background-color: #FF0000;
+      background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+}
